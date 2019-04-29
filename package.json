@@ -1,0 +1,8 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "Starter for typescript demo",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
